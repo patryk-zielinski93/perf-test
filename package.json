@@ -1,5 +1,5 @@
 {
-  "name": "perf-test",
+  "name": "@pzlab/perf-test",
   "version": "0.0.1",
   "description": "Library for performance testing and visualisng results.",
   "main": "build/main/index.js",
