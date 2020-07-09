@@ -1,6 +1,6 @@
 {
   "name": "@pzlab/perf-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library for performance testing and visualisng results.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
